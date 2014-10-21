@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+description: nappimageview
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2014 by Your Company
+
+# these should not be edited
+name: nappimageview
+moduleid: dk.napp.imageview
+guid: 9dd591bf-22d0-4ed2-badf-c905861c7253
+platform: android
+minsdk: 3.4.0.GA
